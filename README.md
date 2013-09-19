@@ -1,5 +1,7 @@
 # webcam config
 
+Weblog post here: [How to webcam on Linux](http://reyhan.org/2013/09/webcam-on-linux.html)
+
 ## Get the config
 
 ```
