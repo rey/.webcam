@@ -10,8 +10,7 @@ git clone git@github.com:rey/.webcam.git
 ## Create symlinks
 
 ```
-ln -s ~/.webcam/.webcamrc.1 ~/.webcamrc.1
-ln -s ~/.webcam/.webcamrc.2 ~/.webcamrc.2
+ln -s ~/.webcam/.webcamrc ~/.webcamrc
 ln -s ~/.webcam/.screenrc.webcam ~/.screenrc.webcam
 ```
 
