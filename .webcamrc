@@ -1,5 +1,5 @@
 [grab]
-  device = /dev/video1
+  device = /dev/video0
   driver = libv4l
   text = %Y-%m-%d %H:%M:%S
   fg_red = 255
@@ -17,13 +17,13 @@
   quality = 100
   trigger = 100
   once = 0
-  archive = webcam/2/%Y/%m/%d/cam1-%Y-%m-%d-%H:%M:%S.jpg
+  archive = webcam/%Y/%m/%d/cam1-%Y-%m-%d-%H:%M:%S.jpg
 [ftp]
   host = your.server.com
   user = your-username
-  dir  = path/to/location/on/your/server/webcam/2
+  dir  = path/to/location/on/your/server/webcam
   file = capture.jpg
-  tmp  = temp2.jpg
+  tmp  = temp.jpg
   passive = 1
   debug = 3
   auto = 0
