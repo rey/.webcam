@@ -17,7 +17,7 @@
   quality = 100
   trigger = 100
   once = 0
-  archive = /home/your-username/webcam/%Y/%m/%d/cam1-%Y-%m-%d-%H:%M:%S.jpg
+  archive = /home/username/webcam/%Y/%m/%d/cam1-%Y-%m-%d-%H:%M:%S.jpg
 [ftp]
   host = your.server.com
   user = your-username
