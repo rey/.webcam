@@ -21,7 +21,7 @@
 [ftp]
   host = your.server.com
   user = your-username
-  dir  = path/to/location/on/your/server/webcam
+  dir  = /home/username/web/public/cam/
   file = capture.jpg
   tmp  = temp.jpg
   passive = 1
